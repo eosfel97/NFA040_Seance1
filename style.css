@@ -1,5 +1,4 @@
-h1{
-  color: #5599;
- font-size: 60px;
-  border: 1px solid black;
+.box{
+  display: flex;
+  border: 2px solid blue;
 }
